@@ -1,6 +1,8 @@
                                               
-kishanrajput23/README.md
-Hello Coders!! 👋
+Udayaprasad P K/README.md
+																																	Hello Coders!! 👋
+																 ![image](https://github.com/Udayaprasad43/Udayaprasad43/assets/46431864/6d09b0c9-093a-4bd8-a909-f381612a2899)
+
 
 twitter head
 I'm Kishan🙋‍♂️, a full time employee in Wipro with a great passion for programming, a tech enthusiast with passion to solve problems and to make things. I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.
@@ -29,7 +31,8 @@ GIF
 
     ⚡ Fun fact I think I'm funny😄
 
-GIF
+![image](https://github.com/Udayaprasad43/Udayaprasad43/assets/46431864/3fc988b4-d509-40a5-8387-b536826a7653)
+
 Blogs posts
 
     MLH Global Hack Week
